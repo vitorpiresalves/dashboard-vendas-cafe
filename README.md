@@ -31,7 +31,7 @@ O dashboard conta com um **filtro de data interativo (slider)** no canto superio
 
 ---
 
-## Exemplos de Filtros Aplicados
+## Filtros
 
 ### Americano with Milk — O mais vendido em quantidade
 
