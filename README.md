@@ -6,7 +6,7 @@ Os valores monetários estão em **hrívnia ucraniana (UAH)**.
 
 ---
 
-## Visão Geral
+## 📊 Visão Geral
 
 O dashboard apresenta os principais indicadores de vendas com filtro interativo por período (slider de datas), permitindo análises comparativas por café, horário e ano.
 
@@ -31,7 +31,7 @@ O dashboard conta com um **filtro de data interativo (slider)** no canto superio
 
 ---
 
-## Filtros
+## 🔍 Filtros
 
 ### Americano with Milk — O mais vendido em quantidade
 
