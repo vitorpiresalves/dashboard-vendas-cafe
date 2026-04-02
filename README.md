@@ -61,7 +61,7 @@ Período de **01/03/2024 a 31/12/2024**. Com 2.693 vendas e receita total de 85.
 
 ![Filtro 2025](Filtro2025.png)
 
-Período de **01/01/2025 a 23/03/2025**. Com 943 vendas e receita de 29.600,78 UAH, o ano de 2025 traz uma mudança no ranking: o **Americano** passa a liderar em volume, e o padrão de horários apresenta um pico mais concentrado entre **13h e 16h**.
+Período de **01/01/2025 a 23/03/2025**. Com 943 vendas e receita de 29.600,78 UAH, o ano de 2025 traz uma mudança no ranking: o **Americano** passa a liderar em volume, e o padrão de horários apresenta um pico mais concentrado entre **15h e 17h**.
 
 ---
 
