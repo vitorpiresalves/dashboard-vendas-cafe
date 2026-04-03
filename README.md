@@ -15,7 +15,7 @@ O dashboard apresenta os principais indicadores de vendas com filtro interativo 
 ### Indicadores principais
 
 - **Receita Total** — soma de todas as vendas no período selecionado
-- **Ticket Médio** — valor médio por venda em UAH
+- **Preço Médio** — valor médio por venda em UAH
 - **Total Vendas** — quantidade total de cafés vendidos
 
 ### Visuais
@@ -45,7 +45,7 @@ O **Americano with Milk** é o café com maior volume de vendas no período tota
 
 ![Filtro Latte](Filtro_latte.png)
 
-O **Latte**, apesar de ser o segundo colocado em volume de vendas (782 unidades), gerou **receita total maior do que o Americano with Milk** em UAH, evidenciando seu ticket médio mais elevado. Seu consumo é concentrado a partir das **15h até o período noturno**, com um perfil de consumidor bem diferente do café mais vendido.
+O **Latte**, apesar de ser o segundo colocado em volume de vendas (782 unidades), gerou **receita total maior do que o Americano with Milk** em UAH, evidenciando seu preço médio mais elevado. Seu consumo é concentrado a partir das **15h até o período noturno**, com um perfil de consumidor bem diferente do café mais vendido.
 
 ---
 
