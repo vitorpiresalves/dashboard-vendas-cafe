@@ -20,8 +20,8 @@ O dashboard apresenta os principais indicadores de vendas com filtro interativo 
 
 ### Visuais
 
-- **Treemap — Cafés mais Vendidos:** exibe os tipos de café rankeados por volume de vendas, com destaque proporcional para os mais populares
-- **Gráfico de Área — Volume de Vendas por Horários do Dia:** mostra os picos de consumo ao longo do dia, revelando os horários de maior movimento
+- **Treemap - Cafés mais Vendidos:** exibe os tipos de café rankeados por volume de vendas, com destaque proporcional para os mais populares
+- **Gráfico de Área - Volume de Vendas por Horários do Dia:** mostra os picos de consumo ao longo do dia, revelando os horários de maior movimento
 
 ---
 
@@ -33,7 +33,7 @@ O dashboard conta com um **filtro de data interativo (slider)** no canto superio
 
 ## 🔍 Filtros
 
-### Americano with Milk — O mais vendido em quantidade
+### Americano with Milk - O mais vendido em quantidade
 
 ![Filtro Americano with Milk](Filtro_am.png)
 
@@ -41,7 +41,7 @@ O **Americano with Milk** é o café com maior volume de vendas no período tota
 
 ---
 
-### Latte — Maior receita entre os filtrados
+### Latte - Maior receita entre os filtrados
 
 ![Filtro Latte](Filtro_latte.png)
 
