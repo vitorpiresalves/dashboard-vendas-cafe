@@ -17,6 +17,7 @@ O dashboard apresenta os principais indicadores de vendas com filtro interativo 
 - **Receita Total:** soma de todas as vendas no período selecionado
 - **Preço Médio:** valor médio por venda em UAH
 - **Total Vendas:** quantidade total de cafés vendidos
+- **Método de Pagamento:** dinheiro ou cartão
 
 ### Visuais
 
