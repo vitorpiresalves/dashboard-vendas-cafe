@@ -17,13 +17,13 @@ O dashboard apresenta os principais indicadores de vendas com filtro interativo 
 - **Receita Total:** soma de todas as vendas no período selecionado
 - **Preço Médio:** valor médio por venda em UAH
 - **Total Vendas:** quantidade total de cafés vendidos
-- **Método de Pagamento:** dinheiro ou cartão
 
 ### Visuais
 
 - **Treemap - Cafés mais Vendidos:** exibe os tipos de café rankeados por volume de vendas, com destaque proporcional para os mais populares
 - **Gráfico de Área - Volume de Vendas por Horários do Dia:** mostra os picos de consumo ao longo do dia, revelando os horários de maior movimento
-
+- **Gráfico de Rosca - Método de Pagamento:** compara quais métodos mais utilizados entre dinheiro ou cartão
+- 
 ---
 
 ## Filtro por Período
