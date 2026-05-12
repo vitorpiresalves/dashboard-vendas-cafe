@@ -23,7 +23,7 @@ O dashboard apresenta os principais indicadores de vendas com filtro interativo 
 - **Treemap - Cafés mais Vendidos:** exibe os tipos de café rankeados por volume de vendas, com destaque proporcional para os mais populares
 - **Gráfico de Área - Volume de Vendas por Horários do Dia:** mostra os picos de consumo ao longo do dia, revelando os horários de maior movimento
 - **Gráfico de Rosca - Método de Pagamento:** compara quais métodos mais utilizados entre dinheiro ou cartão
-- 
+
 ---
 
 ## Filtro por Período
